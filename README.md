@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ronald Chitsatso
-- 👀 I’m interested in Data science and Finance
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science and Financial Engineering
+- 👋 Hi, I’m Ronald Isheanesu Chitsatso. 
+- 👀 I’m interested in Data science and Finance. 
+- 🌱 I’m currently learning Data Science. 
+- 💞️ I’m looking to collaborate on Data Science and Financial Engineering. 
 
 
 <!---
